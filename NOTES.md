@@ -1,0 +1,13 @@
+* http://www.greenstone.org
+* http://dspace.org
+* http://omeka.org
+* http://eprints.org
+* http://islandora.ca
+* http://collectiveaccess.org
+* http://www.obalkyknih.cz/doc/Dokumentace_API_OKCZ_3.1.pdf
+* https://github.com/cbvk/obalkyknih/blob/master/backend/obalky/obalky_server.pl
+* https://github.com/moravianlibrary
+* https://github.com/klokan/mapseries-temap
+* https://github.com/moravianlibrary/Rozcestnik-studovna
+* https://github.com/ceskaexpedice/kramerius
+* https://github.com/vufind-org/vufind
